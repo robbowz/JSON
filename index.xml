@@ -13,7 +13,7 @@
         <StorageClass>STANDARD</StorageClass>
     </Contents>
     <Contents>
-        <Key>Test2/test.json</Key>
+        <Key>Test2/test.JSON</Key>
         <LastModified>2022-01-02T00:00:00Z</LastModified>
         <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
         <Size>5678</Size>
