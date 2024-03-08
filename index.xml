@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<files>
-    <file>
-        <name>test0.json</name>
-        <url>https://username.github.io/JSON/Test1/test0.json</url>
-        <folder>Test1</folder>
-        <keyindex>0</keyindex>
-        <lastmodified>2022-01-01T00:00:00Z</lastmodified>
-        <filesize>1234</filesize>
-    </file>
-    <file>
-        <name>test.json</name>
-        <url>https://username.github.io/JSON/Test2/test.json</url>
-        <folder>Test2</folder>
-        <keyindex>1</keyindex>
-        <lastmodified>2022-01-02T00:00:00Z</lastmodified>
-        <filesize>5678</filesize>
-    </file>
-</files>
+<ListBucketResult xmlns="https://d3q99f8qys9o7e.cloudfront.net">
+    <Name>JSON</Name>
+    <Prefix></Prefix>
+    <Marker></Marker>
+    <MaxKeys>1000</MaxKeys>
+    <IsTruncated>false</IsTruncated>
+    <Contents>
+        <Key>Test1/test0.json</Key>
+        <LastModified>2022-01-01T00:00:00Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>1234</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+    <Contents>
+        <Key>Test2/test.json</Key>
+        <LastModified>2022-01-02T00:00:00Z</LastModified>
+        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <Size>5678</Size>
+        <StorageClass>STANDARD</StorageClass>
+    </Contents>
+</ListBucketResult>
