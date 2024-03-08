@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+    <file>
+        <name>test0.json</name>
+        <url>https://username.github.io/JSON/Test1/test0.json</url>
+        <folder>Test1</folder>
+        <keyindex>0</keyindex>
+        <lastmodified>2022-01-01T00:00:00Z</lastmodified>
+        <filesize>1234</filesize>
+    </file>
+    <file>
+        <name>test.json</name>
+        <url>https://username.github.io/JSON/Test2/test.json</url>
+        <folder>Test2</folder>
+        <keyindex>1</keyindex>
+        <lastmodified>2022-01-02T00:00:00Z</lastmodified>
+        <filesize>5678</filesize>
+    </file>
+</files>
