@@ -8,14 +8,14 @@
     <Contents>
         <Key>Test1/test0.json</Key>
         <LastModified>2022-01-01T00:00:00Z</LastModified>
-        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <ETag>"d41d8cd98f00b204e9800998ecf8421"</ETag>
         <Size>1234</Size>
         <StorageClass>STANDARD</StorageClass>
     </Contents>
     <Contents>
         <Key>Test2/test.JSON</Key>
         <LastModified>2022-01-02T00:00:00Z</LastModified>
-        <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+        <ETag>"d41d8cd98f00b204e9800998ecf8422"</ETag>
         <Size>5678</Size>
         <StorageClass>STANDARD</StorageClass>
     </Contents>
